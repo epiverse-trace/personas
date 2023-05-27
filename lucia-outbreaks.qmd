@@ -1,0 +1,13 @@
+---
+title: "Lucia Outbreaks"
+---
+
+1.  Lucia...
+
+## Needs
+
+Lucia wants applied statistics and mathematics refreshers. She also wants clear guidelines for the interpretation of Outbreak analytics package outputs.
+
+## Related
+
+-   [Erika Sanitaria](erika-sanitaria.html)

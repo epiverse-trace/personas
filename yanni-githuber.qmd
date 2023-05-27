@@ -1,0 +1,12 @@
+---
+title: "Yanni Githuber"
+---
+
+1.  Yanni is a health professional working as a researcher in epidemiology with high interest in quantitative and qualitative methods. She works with a team of data analysts (quantitative scientists and engineers). She is looking forward to learning how to work in Open Science projects, and also how to contribute to them.
+2.  Yanni is learning how to do exploratory data analysis with R. She works with code at least half of her time, particularly using R for data cleaning and visualisation.
+3.  Yanni wants to learn how to access and contribute to code projects that already work with Git as a version control system. She also wants to learn to start a new project on her own, and include better coding practices as soon as possible.
+4.  Yanni is not familiar with the terminal window. She never used commands to perform a particular task on her computer.
+
+## Needs
+
+Yanni wants...
