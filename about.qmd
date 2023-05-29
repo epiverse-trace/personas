@@ -4,8 +4,10 @@ title: "About"
 
 # The aim
 
-- We use personas to design materials and provide a learning path for research software skills and outbreak analytics skills
-- We have a [table with more learner personas](table.html).
+-   We use personas to design materials and provide a learning path for:
+    -   research software skills and
+    -   outbreak analytics skills
+-   We have a [table with more learner personas](table.html).
 
 # Related projects
 
