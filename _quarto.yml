@@ -7,7 +7,17 @@ website:
     left:
       - href: index.qmd
         text: Home
+    right: 
       - about.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/epiverse-trace/personas
+          - text: Report a Bug
+            url:  https://github.com/epiverse-trace/personas/issues
+  repo-url: https://github.com/epiverse-trace/personas/
+  repo-actions: [edit, issue]
 
 format:
   html:
