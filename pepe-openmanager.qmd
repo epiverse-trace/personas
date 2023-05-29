@@ -1,0 +1,10 @@
+---
+title: "Pepe Openmanager"
+---
+
+1.  Pepe is a Project Manager and wants to learn how to access and provide feedback to Open Science projects hosted on GitHub. He also wants to know how to start a new project by himself and include contributing good practices.
+2.  .
+3.  ..
+4.  .
+
+Needs
