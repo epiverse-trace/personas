@@ -6,4 +6,4 @@ title: "Anya Academica"
 
 ## Needs
 
-Anya wants workshops (so that she can allocate focused time) and case studies (for her research). She would like ready-to-use lesson material she could remix for her students and some orientation material to demystify jargon (what the hell is a \"pull request\"?). Finally, it\'s important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice.
+Anya wants workshops (so that she can allocate focused time) and case studies (for her research). She would like ready-to-use lesson material she could remix for her students and some orientation material to demystify jargon (what the hell is a "pull request"?). Finally, it's important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice.
