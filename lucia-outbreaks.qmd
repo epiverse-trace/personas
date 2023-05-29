@@ -10,4 +10,4 @@ Lucia wants applied statistics and mathematics refreshers. She also wants clear 
 
 ## Related
 
--   [Erika Sanitaria](erika-sanitaria.html)
+-   [Erika Sanitaria](erika-sanitaria.qmd)

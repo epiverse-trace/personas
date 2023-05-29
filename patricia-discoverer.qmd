@@ -10,4 +10,4 @@ Patricia wants to translate theory to practice with R. She wants workshops (as a
 
 ## Related
 
--   [Yanna Githuber](yanni-githuber.html)
+-   [Yanna Githuber](yanni-githuber.qmd)

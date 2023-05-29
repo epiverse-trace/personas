@@ -6,10 +6,10 @@ title: "Epiverse-TRACE personas"
 
 | Persona                              | In Brief                                                                                             | Epidemiology knowledge | Programming knowledge | Mathematics Knowledge |
 |--------|---------------------------|-------------|-------------|-------------|
-| [Lucia](lucia-outbreaks.html)        | A Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response       | Expert                 | Competent             | Novice                |
-| [Juan](juan-datero.html)             | A Statistician and R user in a National Health Agency with constant deployment to outbreak response. | Competent              | Expert                | Competent             |
-| [Patricia](patricia-discoverer.html) | A PhD student learning to use R and analyse Outbreak data for her research project                   | Competent              | Novice                | Competent             |
-| [Anya](anya-academica.html)          | A professor who needs ready-to-use training for her research and to pass on to students.             | Expert                 | Competent             | Expert                |
+| [Lucia](lucia-outbreaks.qmd)        | A Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response       | Expert                 | Competent             | Novice                |
+| [Juan](juan-datero.qmd)             | A Statistician and R user in a National Health Agency with constant deployment to outbreak response. | Competent              | Expert                | Competent             |
+| [Patricia](patricia-discoverer.qmd) | A PhD student learning to use R and analyse Outbreak data for her research project                   | Competent              | Novice                | Competent             |
+| [Anya](anya-academica.qmd)          | A professor who needs ready-to-use training for her research and to pass on to students.             | Expert                 | Competent             | Expert                |
 
 A *novice* is someone who doesn't yet have a mental model of some field: as a result, they don't know what they don't know. Someone is *competent* if they know enough to perform routine tasks without heroic effort. Someone is an *expert* if they are able to solve common problems at a glance and harder or more unusual problems reliably.
 
