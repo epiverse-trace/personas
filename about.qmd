@@ -2,14 +2,19 @@
 title: "About"
 ---
 
-# The aim
+## Who is this material for?
 
--   We use personas to design materials and provide a learning path for:
-    -   research software skills and
-    -   outbreak analytics skills
--   We have a [table with more learner personas](table.qmd).
+We thought about Daniel in designing the contents of this material:
 
-# Related projects
+- Daniel is an Instructor that wants to remix content to create specific training materials for public health practitioners.
+
+Take a look at the [complete table of learner personas](table.qmd).
+
+## How to contribute?
+
+Improvements and additions very welcome, and can be made through the GitHub repository.
+
+## Related projects
 
 This project is inspired by:
 
