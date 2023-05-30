@@ -2,9 +2,21 @@
 title: "Pepe Openmanager"
 ---
 
-1.  Pepe is a Project Manager and wants to learn how to access and provide feedback to Open Science projects hosted on GitHub. He also wants to know how to start a new project by himself and include contributing good practices.
-2.  .
-3.  ..
-4.  .
+1.  Pepe is a Project Manager. He works with a team of data analysts (quantitative scientists and research software engineers). He is looking forward to access and provide feedback to Open Science projects hosted on GitHub.
 
-Needs
+2.  Pepe is a PhD in Social Science research. He has research experience in qualitative studies and public engagement for Open science projects. He is aware of the relevance of collecting the feedback from the civil society on early stages of a research projects. Also, of the need to provide clear communication guidelines for a non-software-expert audience.
+
+3.  He wants to learn to start a new project by himself on GitHub. Also, he wants to interact with the most relevant online communication channels within the platform, like in a social network. He wants to contribute to the contributing good practices of his team.
+
+4.  He is sometimes frustrated by how little developers think about the public engagement or knowledge transfer of their packages, and wishes he had more control over what he’s going to be asked to contribute. 
+
+## Needs
+
+- Pepe wants visual cheatsheets (to quickly associate new concepts to usable options) and short, intensive online training for very specific topics.
+
+- He would like ready-to-use materials to demystify jargon (what the hell is a "pull request"?).
+
+## Related
+
+-   [Anya Academica](anya-academica.qmd)
+-   [Patricia Discoverer](patricia-discoverer.qmd)
