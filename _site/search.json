@@ -11,14 +11,14 @@
     "href": "anya-academica.html",
     "title": "Anya Academica",
     "section": "",
-    "text": "Anya …"
+    "text": "Anya, a professor of Infectious Disease Epidemiology, studies respiratory viruses and outbreak infections. She is also responsible for teaching a short course on applied statistic and mathematics for infectious disease modeling to fifty second-year Master and PhD students every year. (Students complain that the department’s course is too theoretical and requires more programming knowledge than they have.)\nAnya runs several studies on different countries each year. She used to analyze the results with Stata and Berkeley Madonna, but is switching to R (which she taught herself during a sabbatical). She has never taken a programming course, and suffers from impostor syndrome in discussions about things like GitHub and R Markdown.\nAnya would like to learn more about time series analysis to support her research, and about tools like Git and R Markdown. She also wants guidance using R to teach her short course on infectious disease modeling, which currently uses a mixture of Excel, Stata, and Berkeley Madonna.\nAnya is juggling half a dozen responsibilities at work, and doesn’t want to look uninformed in front of her colleagues and students."
   },
   {
     "objectID": "anya-academica.html#needs",
     "href": "anya-academica.html#needs",
     "title": "Anya Academica",
     "section": "Needs",
-    "text": "Needs\nAnya wants workshops (so that she can allocate focused time) and case studies (for her research). She would like ready-to-use lesson material she could remix for her students and some orientation material to demystify jargon (what the hell is a “pull request”?). Finally, it’s important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice."
+    "text": "Needs\n\nAnya wants workshops (so that she can allocate focused time) and case studies (for her research).\nShe would like ready-to-use lesson material she could reuse or remix for her students and some orientation material to demystify jargon (what the hell is a “pull request”?).\nFinally, it’s important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice."
   },
   {
     "objectID": "erika-sanitaria.html",
@@ -32,84 +32,84 @@
     "href": "erika-sanitaria.html#needs",
     "title": "Erika Sanitaria",
     "section": "Needs",
-    "text": "Needs\nErika wants where to look for stats/maths refreshers. She also wants mid-term mentoring, case-studies per disease type."
+    "text": "Needs\n\nErika wants more time than an in-person workshop or online training to use R packages in her day-to-day job.\nShe also wants the companion of a mentor or colleague during her learning process to help her when she get’s stuck after minutes trying to solve an error message.\nShe also wants to know where to ask for questions and get solutions in a timely manner."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Epiverse-TRACE personas",
     "section": "",
-    "text": "Personas help instructors figure out who they’re trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner’s perception of their needs, and any special considerations.\n\n\n\nPersona\nIn Brief\nEpidemiology knowledge\nProgramming knowledge\nMathematics Knowledge\n\n\n\n\nLucia\nA Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response\nExpert\nCompetent\nNovice\n\n\nJuan\nA Statistician and R user in a National Health Agency with constant deployment to outbreak response.\nCompetent\nExpert\nCompetent\n\n\nPatricia\nA PhD student learning to use R and analyse Outbreak data for her research project\nCompetent\nNovice\nCompetent\n\n\nAnya\nA professor who needs ready-to-use training for her research and to pass on to students.\nExpert\nCompetent\nExpert\n\n\n\nA novice is someone who doesn’t yet have a mental model of some field: as a result, they don’t know what they don’t know. Someone is competent if they know enough to perform routine tasks without heroic effort. Someone is an expert if they are able to solve common problems at a glance and harder or more unusual problems reliably.\nAny learning material (lesson, case study, online training, or in-person workshop) should be designed for 1–3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff, adapting content from Rstudio Learner Personas. Improvements and additions very welcome, and can be made through the GitHub repository."
+    "text": "Personas help instructors figure out who they’re trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner’s perception of their needs, and any special considerations.\n\n\n\nPersona\nIn Brief\nEpidemiology knowledge\nProgramming knowledge\nMathematics Knowledge\n\n\n\n\nLucia\nA Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response.\nExpert\nCompetent\nNovice\n\n\nJuan\nA Statistician and R user in a National Health Agency with constant deployment to outbreak response.\nCompetent\nExpert\nCompetent\n\n\nPatricia\nA PhD student learning to use R and analyse Outbreak data for her collaborative project on GitHub.\nCompetent\nNovice\nCompetent\n\n\nAnya\nA professor who needs ready-to-use training for her research and to pass on to students.\nExpert\nCompetent\nExpert\n\n\n\nA novice is someone who doesn’t yet have a mental model of some field: as a result, they don’t know what they don’t know. Someone is competent if they know enough to perform routine tasks without heroic effort. Someone is an expert if they are able to solve common problems at a glance and harder or more unusual problems reliably.\nAny learning material (lesson, case study, online training, or in-person workshop) should be designed for 1–3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff, adapting content from Rstudio Learner Personas. Improvements and additions very welcome, and can be made through the GitHub repository."
   },
   {
     "objectID": "juan-datero.html",
     "href": "juan-datero.html",
     "title": "Juan Datero",
     "section": "",
-    "text": "Juan is a data-savvy professional working at the Ministry of Health in Kenya for almost 2 years. He is looking forward to learning how to carefully use R packages to generate modelling and statistical inference outputs.\nJuan is a novice in epidemiological concepts given his engineering and statistics studies. He just started a Online courses in Epidemiology where he is having training in Epidemiology concepts.\nJuan wants to learn how to choose the parameters of specialised R packages in a pragmatic way during health emergencies (outbreaks), without losing scientific rigour. Also, he wants to learn how to interpret the outputs of stats and maths modelling generated by these specialised R packages to inform Field epidemiologists. If possible, learn how to contribute to these R packages.\nJuan believes that time is money: every minute she spends learning something new has to pay off sooner rather than later."
+    "text": "Juan is a data-savvy professional working at the Ministry of Health in Kenya for almost 2 years. He is looking forward to learning how to carefully use R packages to generate modelling and statistical inference outputs.\nJuan is a novice in epidemiological concepts given his engineering and statistics studies. He just started a Online courses in Epidemiology where he is having training in Epidemiology concepts. He visits package vignettes for his day-to-day work.\nJuan wants to learn how to choose the parameters of specialised R packages in a pragmatic way during health emergencies (outbreaks), without losing scientific rigour. Also, he wants to learn how to interpret the outputs of stats and maths modelling generated by these specialised R packages to inform Field epidemiologists. If possible, learn how to contribute to these R packages.\nJuan believes that time is money: every minute she spends learning something new has to pay off sooner rather than later. He is vision impaired and needs screen reader friendly material."
   },
   {
     "objectID": "juan-datero.html#needs",
     "href": "juan-datero.html#needs",
     "title": "Juan Datero",
     "section": "Needs",
-    "text": "Needs\nJuan wants where to look for outbreak concept refreshers constantly. He also wants case studies and vignettes for his day-to-day work, webinars to give him a sense of where the field is going, and short, intensive online training for very specific."
+    "text": "Needs\n\nJuan wants where to look for outbreak concept refreshers constantly.\nHe also wants case-studies per disease type given his novice experience in the field.\nHe also wants to access webinars to give him a sense of where the field is going, and short, intensive online training for very specific topics."
   },
   {
     "objectID": "lucia-outbreaks.html",
     "href": "lucia-outbreaks.html",
     "title": "Lucia Outbreaks",
     "section": "",
-    "text": "Lucia…"
+    "text": "Lucia is a Field Epidemiologist working at the Ministry of Health in Bolivia for almost 4 years. She is looking forward to learning how to Make rigorous conclusions from modelling and statistical inference outputs of Outbreak analytics R packages.\nShe use R packages like {tidyverse}, {ggplot2}, and {rmarkdown} for data cleaning, plotting and reporting data for Outbreak response.\nShe wants to learn how to interpret the statistical and mathematical outputs generated by infectious disease modelling R packages. For her, this is key to inform stakeholders and the general public.\nLucia is a single mother; the one evening a week she spends practicing R is the only out-of-work time she’s able to take away from family responsibilities."
   },
   {
     "objectID": "lucia-outbreaks.html#needs",
     "href": "lucia-outbreaks.html#needs",
     "title": "Lucia Outbreaks",
     "section": "Needs",
-    "text": "Needs\nLucia wants applied statistics and mathematics refreshers. She also wants clear guidelines for the interpretation of Outbreak analytics package outputs."
+    "text": "Needs\n\nLucia wants more time than a webinar to learn how to use new outbreak analytics R packages.\nShe wants refreshers of applied statistics and mathematics concepts.\nShe also wants clear guidelines for the interpretation of Outbreak analytics package outputs.\nShe also wants case-studies per disease type to identify how to translate her field experience intro practice."
   },
   {
     "objectID": "lucia-outbreaks.html#related",
     "href": "lucia-outbreaks.html#related",
     "title": "Lucia Outbreaks",
     "section": "Related",
-    "text": "Related\n\nErika Sanitaria"
+    "text": "Related\n\nErika Sanitaria\nJuan Datero"
   },
   {
     "objectID": "patricia-discoverer.html",
     "href": "patricia-discoverer.html",
     "title": "Patricia Discoverer",
     "section": "",
-    "text": "Patricia is a PhD student learning to do exploratory data analysis with R. She works with code at least half of her time, mainly using R for data cleaning and visualization. She is familiar with the Rstudio Graphical Interface."
+    "text": "Patricia is a PhD student in Infectious Disease Epidemiology. She works with a team of data analysts (quantitative scientists and research software engineers). She is looking forward to learning how to work in Open Science projects, and also how to contribute to them.\nShe did a Master in Epidemiology with a focus on Modelling and the Dynamics of Infectious Diseases. She is learning to do exploratory data analysis with R. She works with code at least half of her time, mainly using R for data cleaning, visualization, and generating automated reports. She is familiar with the Rstudio Graphical Interface.\nShe wants to learn how to access and contribute to code projects that already work with Git as a version control system. She also wants to learn to start a new project on her own, and include better coding practices as soon as possible.\nShe is not familiar with the terminal window. She never used commands to perform a particular task on her computer."
   },
   {
     "objectID": "patricia-discoverer.html#needs",
     "href": "patricia-discoverer.html#needs",
     "title": "Patricia Discoverer",
     "section": "Needs",
-    "text": "Needs\nPatricia wants to translate theory to practice with R. She wants workshops (as an opportunity to meet people) and self-paced lessons (so that she can learn new things on her own). She has a complete set of cheatsheets taped up on her wall, but usually checks Stack Overflow before looking at reference manuals."
+    "text": "Needs\n\nPatricia wants to translate theory to practice with R.\nShe wants workshops (as an opportunity to meet people) and self-paced lessons (so that she can learn new things on her own).\nShe has a complete set of cheatsheets taped up on her wall, but usually checks Stack Overflow before looking at reference manuals."
   },
   {
     "objectID": "patricia-discoverer.html#related",
     "href": "patricia-discoverer.html#related",
     "title": "Patricia Discoverer",
     "section": "Related",
-    "text": "Related\n\nYanna Githuber"
+    "text": "Related\n\nAnya Academica\nPepe Openmanager"
   },
   {
     "objectID": "pepe-openmanager.html",
     "href": "pepe-openmanager.html",
     "title": "Pepe Openmanager",
     "section": "",
-    "text": "Pepe is a Project Manager and wants to learn how to access and provide feedback to Open Science projects hosted on GitHub. He also wants to know how to start a new project by himself and include contributing good practices.\n.\n..\n.\n\nNeeds"
+    "text": "Pepe is a Project Manager. He works with a team of data analysts (quantitative scientists and research software engineers). He is looking forward to access and provide feedback to Open Science projects hosted on GitHub.\nPepe is a PhD in Social Science research. He has research experience in qualitative studies and public engagement for Open science projects. He is aware of the relevance of collecting the feedback from the civil society on early stages of a research projects. Also, of the need to provide clear communication guidelines for a non-software-expert audience.\nHe wants to learn to start a new project by himself on GitHub. Also, he wants to interact with the most relevant online communication channels within the platform, like in a social network. He wants to contribute to the contributing good practices of his team.\nHe is sometimes frustrated by how little developers think about the public engagement or knowledge transfer of their packages, and wishes he had more control over what he’s going to be asked to contribute."
   },
   {
     "objectID": "table.html",
     "href": "table.html",
     "title": "All Epiverse-TRACE personas",
     "section": "",
-    "text": "Persona\nIn Brief\nEpidemiology knowledge\nProgramming knowledge\nMathematics Knowledge\n\n\n\n\nErika\nA Field Epidemiologist in a National Health Agency that wants to switch from Excel to R for data cleaning, make plots and create reports\nExpert\nNovice\nNovice\n\n\nLucia\nA Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response\nExpert\nCompetent\nNovice\n\n\nJuan\nA Statistician and R user in a National Health Agency with constant deployment to outbreak response.\nCompetent\nExpert\nCompetent\n\n\nPatricia\nA PhD student learning to use R and analyse Outbreak data for her research project\nCompetent\nNovice\nCompetent\n\n\nAnya\nA professor who needs ready-to-use training for her research and to pass on to students.\nExpert\nCompetent\nExpert\n\n\nToshi\nA systems admin in a National Health Agency who has to support data analysts.\nCompetent\nExpert\nNovice\n\n\nJoselyn\nAn ex-Field epidemiologist that now leads an Outbreak response team in a National Health Agency\nExpert\nNovice\nCompetent\n\n\nEduardo\nAn ex-Field epidemiologist with PhD research training that now leads an Outbreak analytics team\nExpert\nCompetent\nCompetent\n\n\nCelina\nA post-doc and fluent R user who needs to keep up-to-date with the latest package developments\nCompetent\nCompetent\nCompetent\n\n\nYanni\nAn epidemiologist working with data analysts that wants to contribute to the team Open Science projects on GitHub\nCompetent\nNovice\nCompetent\n\n\nLarry\nA professor who is a long-life user of a different tool than R\nExpert\nNovice\nExpert\n\n\nDaniel\nA Trainer that wants to remix content to create specific training materials for public health practitioners\nCompetent\nExpert\nCompetent\n\n\nPepe\nA Project Manager that wants to provide feedback to Open Science projects hosted on GitHub\nCompetent\nNovice\nNovice"
+    "text": "Persona\nIn Brief\nEpidemiology knowledge\nProgramming knowledge\nMathematics Knowledge\n\n\n\n\nErika\nA Field Epidemiologist in a National Health Agency that wants to switch from Excel to R for data cleaning, make plots and create reports.\nExpert\nNovice\nNovice\n\n\nLucia\nA Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response.\nExpert\nCompetent\nNovice\n\n\nJuan\nA Statistician and R user in a National Health Agency with constant deployment to outbreak response.\nCompetent\nExpert\nCompetent\n\n\nPatricia\nA PhD student learning to use R and analyse Outbreak data for her collaborative project on GitHub.\nCompetent\nNovice\nCompetent\n\n\nAnya\nA professor who needs ready-to-use training for her research and to pass on to students.\nExpert\nCompetent\nExpert\n\n\nPepe\nA Project Manager that wants to provide feedback to Open Science projects hosted on GitHub.\nCompetent\nNovice\nNovice\n\n\nToshi\nA systems admin in a National Health Agency who has to support data analysts.\nCompetent\nExpert\nNovice\n\n\nJoselyn\nAn ex-Field epidemiologist that now leads an Outbreak response team in a National Health Agency.\nExpert\nNovice\nCompetent\n\n\nEduardo\nAn ex-Field epidemiologist with PhD research training that now leads an Outbreak analytics team.\nExpert\nCompetent\nCompetent\n\n\nCelina\nA post-doc and fluent R user who needs to keep up-to-date with the latest package developments.\nCompetent\nCompetent\nCompetent\n\n\nLarry\nA professor who is a long-life user of a different tool than R.\nExpert\nNovice\nExpert\n\n\nDaniel\nA Trainer that wants to remix content to create specific training materials for public health practitioners.\nCompetent\nExpert\nCompetent"
   },
   {
     "objectID": "yanni-githuber.html",
@@ -124,5 +124,26 @@
     "title": "Yanni Githuber",
     "section": "Needs",
     "text": "Needs\nYanni wants…"
+  },
+  {
+    "objectID": "pepe-openmanager.html#needs",
+    "href": "pepe-openmanager.html#needs",
+    "title": "Pepe Openmanager",
+    "section": "Needs",
+    "text": "Needs\n\nPepe wants visual cheatsheets (to quickly associate new concepts to usable options) and short, intensive online training for very specific topics.\nHe would like ready-to-use materials to demystify jargon (what the hell is a “pull request”?)."
+  },
+  {
+    "objectID": "pepe-openmanager.html#related",
+    "href": "pepe-openmanager.html#related",
+    "title": "Pepe Openmanager",
+    "section": "Related",
+    "text": "Related\n\nAnya Academica\nPatricia Discoverer"
+  },
+  {
+    "objectID": "anya-academica.html#related",
+    "href": "anya-academica.html#related",
+    "title": "Anya Academica",
+    "section": "Related",
+    "text": "Related\n\nPatricia Discoverer\nPepe Openmanager"
   }
 ]
