@@ -8,4 +8,4 @@
 
 The goal of `personas` is to help instructors figure out who they’re
 trying to help and communicate an understanding to each other and to
-learners.
+learners in the field of infectious diseases and public health.
