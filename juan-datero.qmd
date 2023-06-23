@@ -18,7 +18,10 @@ title: "Juan Datero"
 
 - He also wants to access webinars to give him a sense of where the field is going, and short, intensive online training for very specific topics.
 
+- He would like ready-to-use lesson material he could reuse or remix to share or organize a local training with his colleagues.
+
 ## Related
 
--   [Erika Sanitaria](erika-sanitaria.qmd)
--   [Lucia Outbreaks](lucia-outbreaks.qmd)
+-   [Erika Sanitaria](erika-sanitaria.qmd): request entry material.
+-   [Lucia Outbreaks](lucia-outbreaks.qmd): sometimes work together.
+-   [Anya Academica](anya-academica.qmd): interested in entry material.

@@ -4,9 +4,9 @@ title: "Erika Sanitaria"
 
 1.  Erika is a public health professional working at the Ministry of Health in Kenya for almost 2 years. She is looking forward to learning how to Explore data and Make rigorous conclusions from modelling and statistical inference outputs.
 
-2.  Erika is competent in epidemiological concepts given her medical studies and field experience. She took the FETP (Field Epidemiology Training Program) under the TEPHINET (Training Programs in Epidemiology and Public Health Interventions Network)
+2.  Erika is competent in epidemiological concepts given her medical studies and field experience. She took the FETP (Field Epidemiology Training Program) under the TEPHINET (Training Programs in Epidemiology and Public Health Interventions Network). She solves most of her data analysis tasks using Excel. 
 
-3.  Erika wants to learn how to wrangle messy data and create visualisations useful for Situational Reports (sitreps). She also wants to learn about good practices for creating plots and reports to inform researchers, stakeholders and the general public.
+3.  Erika wants to learn how to wrangle messy data and create visualisations useful for Situational Reports (sitreps), specially maps. She also wants to learn about good practices for creating plots and reports to inform researchers, stakeholders and the general public.
 
 4.  Erika can read English well, but sometimes struggles to keep up with spoken conversation that involves a lot of jargon. She needs English subtitles in video tutorials. 
 
@@ -20,5 +20,6 @@ title: "Erika Sanitaria"
 
 ## Related
 
--   [Lucia Outbreaks](lucia-outbreaks.qmd)
--   [Juan Datero](juan-datero.qmd)
+-   [Lucia Outbreaks](lucia-outbreaks.qmd): use R for data analysis.
+-   [Juan Datero](juan-datero.qmd): assist them in data analysis.
+-   [Patricia Discoverer](patricia-discoverer.qmd): new to programming.
