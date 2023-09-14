@@ -12,11 +12,11 @@ title: "Erika Sanitaria"
 
 ## Needs
 
-- Erika wants more time than an in-person workshop or online training to use R packages in her day-to-day job. 
+- Erika needs more time than an in-person workshop or online training to use R packages in her day-to-day job. 
 
-- She also wants the companion of a mentor or colleague during her learning process to help her when she get's stuck after minutes trying to solve an error message. 
+- She also needs the companion of a mentor or colleague during her learning process to help her when she get's stuck after minutes trying to solve an error message. 
 
-- She also wants to know where to ask for questions and get solutions in a timely manner. 
+- She also needs to know where to ask for questions and get solutions in a timely manner. 
 
 ## Related
 
