@@ -1,0 +1,23 @@
+---
+title: "Danielle Entretrainer"
+---
+
+1.  Danielle has a master's in Epidemiology and is now a certified [Carpentries instructor](https://carpentries.org/become-instructor/). She spends her time developing new training material for her colleagues at the Ministry of Health and University.
+
+2.  R is the only language Danielle has ever learned well, but she has learned it very well. She is proficient with a variety of packages for modeling and outbreak analytics, and knows more than any sane person should about extracting data from Excel. She regularly contributes small fixes to a dozen of the packages she teaches most often, and tries to answer one Stack Overflow question every working day.
+
+3.  She is always interested in seeing other people’s teaching material, but what she appreciates most is up-to-date examples she can recycle and build her own lessons around.
+
+4.  She is sometimes frustrated by how little developers think about the learnability or usability of their packages, and wishes she had more control over what she’s going to be asked to teach.
+
+## Needs
+
+- Danielle needs vignettes, worked examples, and cookbooks that she can mine to create training to meet her audience’s needs. 
+
+- She would also like pointers to material on better teaching practices.
+
+## Related
+
+-   [Lucia Outbreaks](lucia-outbreaks.qmd): is her colleague at the Ministry of Health.
+-   [Juan Datero](juan-datero.qmd): assist them in data analysis.
+-   [Patricia Discoverer](patricia-discoverer.qmd): is her colleague at the University.
