@@ -23,4 +23,4 @@ title: "Vania Academica"
 
 -   [Patricia Discoverer](patricia-discoverer.qmd)
 -   [Pepe Openmanager](pepe-openmanager.qmd)
--   [Anya Academic](https://rstudio-education.github.io/learner-personas/anya-academic/)
+-   [Anya Academic](https://rstudio-education.github.io/learner-personas/anya-academic/): inspired Vania.
