@@ -10,9 +10,17 @@ In the creation of this material we though in:
 
 Take a look at the [complete table of learner personas](table.qmd).
 
-## How to contribute?
+## Contributing
 
-Improvements and additions very welcome, and can be made through the GitHub repository.
+Contributions are always welcome!
+
+See our [Contributing guide](https://github.com/epiverse-trace/personas/blob/main/.github/CONTRIBUTING.md) for ways to get started.
+
+Please adhere to this project's [Code of Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## Support
+
+Please see our [Getting help guide](https://github.com/epiverse-trace/personas/blob/main/.github/SUPPORT.md) for support.
 
 ## Related projects
 
