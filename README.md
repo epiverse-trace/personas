@@ -37,3 +37,19 @@ Please see our [Getting help guide](/.github/SUPPORT.md) for support.
 ## License
 
 [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+
+## Citation
+
+    #> 
+    #> Valle A, Carnegie A (2023). "personas: Epiverse-TRACE Learner
+    #> Personas."
+    #> 
+    #> A BibTeX entry for LaTeX users is
+    #> 
+    #>   @Misc{epiversepersonas,
+    #>     title = {personas: Epiverse-TRACE Learner Personas},
+    #>     author = {Andree Valle and Anna Carnegie},
+    #>     year = {2023},
+    #>     abstract = {Collection of Epiverse-TRACE Learner Personas to help instructors figure out who they are trying to help.},
+    #>     version = {0.0.0.9000},
+    #>   }
