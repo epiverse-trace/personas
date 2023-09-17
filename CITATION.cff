@@ -1,0 +1,39 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "personas" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'personas: Epiverse-TRACE Learner Personas'
+version: 0.0.0.9000
+abstract: Collection of Epiverse-TRACE Learner Personas to help instructors figure
+  out who they are trying to help.
+authors:
+- family-names: Valle
+  given-names: Andree
+  email: andree.valle-campos@lshtm.ac.uk
+  orcid: https://orcid.org/0000-0002-7779-481X
+- family-names: Carnegie
+  given-names: Anna
+  email: Anna.Carnegie@lshtm.ac.uk
+  orcid: https://orcid.org/0000-0002-6385-7795
+preferred-citation:
+  type: generic
+  title: 'personas: Epiverse-TRACE Learner Personas'
+  authors:
+  - family-names: Valle
+    given-names: Andree
+    email: andree.valle-campos@lshtm.ac.uk
+    orcid: https://orcid.org/0000-0002-7779-481X
+  year: '2023'
+  abstract: Collection of Epiverse-TRACE Learner Personas to help instructors figure
+    out who they are trying to help.
+  version: 0.0.0.9000
+contact:
+- family-names: Valle
+  given-names: Andree
+  email: andree.valle-campos@lshtm.ac.uk
+  orcid: https://orcid.org/0000-0002-7779-481X

@@ -1,0 +1,11 @@
+
+bibentry(bibtype = "Misc",
+         key = "epiversepersonas",
+         title = "personas: Epiverse-TRACE Learner Personas",
+         author = c(person(given = "Andree",
+                           family = "Valle"),
+                    person(given = "Anna",
+                           family = "Carnegie")),
+         year = "2023",
+         abstract = "Collection of Epiverse-TRACE Learner Personas to help instructors figure out who they are trying to help.",
+         version = "0.0.0.9000")
