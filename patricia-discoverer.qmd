@@ -4,7 +4,7 @@ title: "Patricia Discoverer"
 
 1.  Patricia is a PhD student in Infectious Disease Epidemiology. She works with a team of data analysts (quantitative scientists and research software engineers). She is looking forward to learning how to work in Open Science projects, and also how to contribute to them.
 
-2.  She did a Master in Epidemiology with a focus on Modelling and the Dynamics of Infectious Diseases using MATLAB. Now, she is learning to do this with R. She works with code at least half of her time, mainly using R for data transformation and visualization. She is familiar with the Rstudio Graphical Interface.
+2.  She did a Master in Epidemiology with a focus on Modelling of Infectious Diseases Dynamics using MATLAB. Now, she is learning to do this with R. She works with code at least half of her time, mainly using R for data transformation and visualization. She is familiar with the Rstudio Graphical Interface.
 
 3.  She wants to learn how to access and contribute to code projects that already work with Git as a version control system. She also wants to learn to start a new project on her own, and include better coding practices as soon as possible.
 
