@@ -19,5 +19,6 @@ title: "Danielle Entretrainer"
 ## Related
 
 -   [Lucia Outbreaks](lucia-outbreaks.qmd): is her colleague at the Ministry of Health.
--   [Juan Datero](juan-datero.qmd): assist them in data analysis.
+-   [Juan Datero](juan-datero.qmd): also delivers training.
 -   [Patricia Discoverer](patricia-discoverer.qmd): is her colleague at the University.
+-   [Celine Certified](https://rstudio-education.github.io/learner-personas/celine-certified/): inspired Danielle.

@@ -6,7 +6,7 @@ title: "About"
 
 We thought about Daniel in designing the contents of this material:
 
-- Daniel is an Instructor that wants to remix content to create specific training materials for public health practitioners.
+- __Danielle__ is an Instructor that wants to remix content to create specific training materials for public health practitioners. [Read more about Danielle](danielle-entretrainer.qmd).
 
 Take a look at the [complete table of learner personas](table.qmd).
 
