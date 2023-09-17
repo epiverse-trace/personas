@@ -6,7 +6,7 @@ title: "About"
 
 In the creation of this material we though in:
 
-- __Danielle__, an Instructor. She has outbreak analytics experience at the Ministry of Health and now develops training materials for her colleagues. She wants to remix content to create specific training materials for public health practitioners. [Read more about Danielle](danielle-entretrainer.qmd).
+- __Danielle__, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. [Read more about Danielle](danielle-entretrainer.qmd).
 
 Take a look at the [complete table of learner personas](table.qmd).
 
