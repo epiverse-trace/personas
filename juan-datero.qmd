@@ -12,7 +12,7 @@ title: "Juan Datero"
 
 ## Needs
 
-- Juan needs how-to guides and glossaries where to look for outbreak analytics code solutions and concept refreshers constantly. 
+- Juan needs how-to guides and glossaries to look for quick code solutions reminders and concept refreshers for outbreak analytics. 
 
 - He also needs case-studies per disease type given his novice experience in the field. 
 
