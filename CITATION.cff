@@ -28,6 +28,10 @@ preferred-citation:
     given-names: Andree
     email: andree.valle-campos@lshtm.ac.uk
     orcid: https://orcid.org/0000-0002-7779-481X
+  - family-names: Carnegie
+    given-names: Anna
+    email: Anna.Carnegie@lshtm.ac.uk
+    orcid: https://orcid.org/0000-0002-6385-7795
   year: '2023'
   abstract: Collection of Epiverse-TRACE Learner Personas to help instructors figure
     out who they are trying to help.
@@ -37,3 +41,7 @@ contact:
   given-names: Andree
   email: andree.valle-campos@lshtm.ac.uk
   orcid: https://orcid.org/0000-0002-7779-481X
+- family-names: Carnegie
+  given-names: Anna
+  email: Anna.Carnegie@lshtm.ac.uk
+  orcid: https://orcid.org/0000-0002-6385-7795
