@@ -25,3 +25,4 @@ title: "Juan Datero"
 -   [Erika Sanitaria](erika-sanitaria.qmd): request entry material.
 -   [Lucia Outbreaks](lucia-outbreaks.qmd): sometimes work together.
 -   [Vania Academica](vania-academica.qmd): interested in entry material.
+-   [Danielle entretrainer](danielle-entretrainer.qmd): also delivers training.
