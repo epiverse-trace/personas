@@ -4,7 +4,7 @@ title: "About"
 
 ## Who is this material for?
 
-We thought about Daniel in designing the contents of this material:
+In the creation of this material we though in:
 
 - __Danielle__ is an Instructor that wants to remix content to create specific training materials for public health practitioners. [Read more about Danielle](danielle-entretrainer.qmd).
 
