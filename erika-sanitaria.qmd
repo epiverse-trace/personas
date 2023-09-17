@@ -6,20 +6,23 @@ title: "Erika Sanitaria"
 
 2.  Erika is competent in epidemiological concepts given her medical studies and field experience. She took the FETP (Field Epidemiology Training Program) under the TEPHINET (Training Programs in Epidemiology and Public Health Interventions Network). She solves most of her data analysis tasks using Excel. 
 
-3.  Erika wants to learn how to wrangle messy data and create visualisations useful for Situational Reports (sitreps), specially maps. She also wants to learn about good practices for creating plots and reports to inform researchers, stakeholders and the general public.
+3.  Erika wants to learn how to wrangle messy data and create visualisations useful for Situational Reports (sitreps), specially maps. She also wants to learn about good practices for creating plots and reports to inform researchers, stakeholders and the general public. 
 
 4.  Erika can read English well, but sometimes struggles to keep up with spoken conversation that involves a lot of jargon. She needs English subtitles in video tutorials. 
 
 ## Needs
 
+- Erika needs short overviews to orient her and introductory self-paced tutorials that include videos or animated GIFs showing exactly how to drive the tools, and that use datasets he can relate to.
+
 - Erika needs more time than an in-person workshop or online training to use R packages in her day-to-day job. 
 
 - She also needs the companion of a mentor or colleague during her learning process to help her when she get's stuck after minutes trying to solve an error message. 
 
-- She also needs to know where to ask for questions and get solutions in a timely manner. 
+- She also needs to know where to ask for questions and get solutions in a timely manner.
 
 ## Related
 
 -   [Lucia Outbreaks](lucia-outbreaks.qmd): use R for data analysis.
 -   [Juan Datero](juan-datero.qmd): assist them in data analysis.
 -   [Patricia Discoverer](patricia-discoverer.qmd): new to programming.
+-   [Nang Newbie](https://rstudio-education.github.io/learner-personas/nang-newbie/): Inspired Nang.
