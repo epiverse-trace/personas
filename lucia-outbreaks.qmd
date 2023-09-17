@@ -14,7 +14,7 @@ title: "Lucia Outbreaks"
 
 - Lucia needs more time than a webinar to learn how to use new outbreak analytics R packages. 
 
-- She needs refreshers of applied statistics and mathematics concepts. 
+- She needs tutorials with refreshers of applied statistics and mathematics concepts. 
 
 - She also needs clear guidelines for the interpretation of Outbreak analytics package outputs. 
 

@@ -15,7 +15,7 @@ title: "Vania Academica"
 
 - Vania needs workshops (so that she can allocate focused time) and case studies (for her research). 
 
-- She would like ready-to-use lesson material she could reuse or remix for her students and some orientation material to demystify jargon (what the hell is a "pull request"?). 
+- She would like ready-to-use tutorials she could reuse or remix for her students and some orientation material to demystify jargon (what the hell is a "pull request"?). 
 
 - Finally, it's important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice.
 
