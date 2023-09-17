@@ -2,7 +2,7 @@
 title: "Epiverse-TRACE personas"
 ---
 
-[Personas](http://teachtogether.tech/en/index.html#s:process-personas) help instructors figure out who they're trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner's perception of their needs, and any special considerations.
+__Learner Personas__ help instructors figure out who they're trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner's perception of their needs, and any special considerations. [Read more about learner personas](http://teachtogether.tech/en/index.html#s:process-personas).
 
 | Persona                              | In Brief                                                                                             | Epidemiology knowledge | Programming knowledge | Mathematics Knowledge |
 |--------|---------------------------|-------------|-------------|-------------|
@@ -15,4 +15,4 @@ title: "Epiverse-TRACE personas"
 
 A *novice* is someone who doesn't yet have a mental model of some field: as a result, they don't know what they don't know. Someone is *competent* if they know enough to perform routine tasks without heroic effort. Someone is an *expert* if they are able to solve common problems at a glance and harder or more unusual problems reliably.
 
-Any learning material (lesson, case study, online training, or in-person workshop) should be designed for 1--3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff for the field of infectious diseases and public health, adapting content from [Rstudio Learner Personas](https://rstudio-education.github.io/learner-personas/).
+_Any_ learning material (tutorial, case study, online training, or in-person workshop) should be designed for 1--3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff for the field of infectious diseases and public health, adapting content from [Rstudio Learner Personas](https://rstudio-education.github.io/learner-personas/).
