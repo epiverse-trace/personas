@@ -20,5 +20,5 @@ title: "Patricia Discoverer"
 
 ## Related
 
--   [Anya Academica](anya-academica.qmd)
+-   [Vania Academica](vania-academica.qmd)
 -   [Pepe Openmanager](pepe-openmanager.qmd)

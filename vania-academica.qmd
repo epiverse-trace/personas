@@ -1,0 +1,26 @@
+---
+title: "Vania Academica"
+---
+
+1.  Vania, a professor of Infectious Disease Epidemiology, studies respiratory viruses and outbreak infections. She is also responsible for teaching a short course on applied statistic and mathematics for infectious disease modeling to fifty second-year Master and PhD students every year. (Students complain that the department’s course do not provide the programming skills they need for current research in the field.)
+
+2. Vania runs several studies on different countries each year. She used to analyze the results with Stata and MATLAB, but is switching to R (which she taught herself during a sabbatical). She has never taken a programming course, and suffers from impostor syndrome in discussions about things like GitHub and R Markdown.
+
+3. Vania would like to learn more about time series analysis to support her research, and about tools like Git and R Markdown. She also wants guidance using R to teach her short course on infectious disease modeling, which currently uses a mixture of Excel, Stata, and Berkeley Madonna.
+
+4. Vania is juggling half a dozen responsibilities at work, and doesn’t want to look uninformed in front of her colleagues and students.
+
+
+## Needs
+
+- Vania needs workshops (so that she can allocate focused time) and case studies (for her research). 
+
+- She would like ready-to-use lesson material she could reuse or remix for her students and some orientation material to demystify jargon (what the hell is a "pull request"?). 
+
+- Finally, it's important that she be able to use the same tools in her research as in her teaching in order to amortize learning costs and stay in practice.
+
+## Related
+
+-   [Patricia Discoverer](patricia-discoverer.qmd)
+-   [Pepe Openmanager](pepe-openmanager.qmd)
+-   [Anya Academic](https://rstudio-education.github.io/learner-personas/anya-academic/)

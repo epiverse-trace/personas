@@ -24,4 +24,4 @@ title: "Juan Datero"
 
 -   [Erika Sanitaria](erika-sanitaria.qmd): request entry material.
 -   [Lucia Outbreaks](lucia-outbreaks.qmd): sometimes work together.
--   [Anya Academica](anya-academica.qmd): interested in entry material.
+-   [Vania Academica](vania-academica.qmd): interested in entry material.
