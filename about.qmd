@@ -8,8 +8,6 @@ In the creation of this material we though in:
 
 - __Danielle__, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. [Read more about Danielle](danielle-entretrainer.qmd).
 
-Take a look at the [complete table of learner personas](table.qmd).
-
 ## Contributing
 
 Contributions are always welcome!
@@ -24,7 +22,6 @@ Please see our [Getting help guide](https://github.com/epiverse-trace/personas/b
 
 ## Related projects
 
-This project is inspired by:
+In this project, we got inspired by [Metadocencia Personas](https://www.metadocencia.org/personas/) and adapted content from [Rstudio Learner Personas](https://rstudio-education.github.io/learner-personas/).
 
--   [Rstudio Learner Personas](https://rstudio-education.github.io/learner-personas/)
--   [Metadocencia Personas](https://www.metadocencia.org/personas/)
+The "Teaching Tech Together" book (G. Wilson, 2019) has a section on **Learner Personas** in [English](http://teachtogether.tech/en/index.html#s:process-personas) and [Spanish](http://teachtogether.tech/es/index.html#s:process-personas).
