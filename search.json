@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "In the creation of this material we though in:\n\nDanielle, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. Read more about Danielle.\n\nTake a look at the complete table of learner personas."
+    "text": "In the creation of this material we though in:\n\nDanielle, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. Read more about Danielle."
   },
   {
     "objectID": "about.html#who-is-this-material-for",
     "href": "about.html#who-is-this-material-for",
     "title": "About",
     "section": "",
-    "text": "In the creation of this material we though in:\n\nDanielle, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. Read more about Danielle.\n\nTake a look at the complete table of learner personas."
+    "text": "In the creation of this material we though in:\n\nDanielle, an Instructor. She develops training materials for her colleagues at the Ministry of Health. She wants to remix content to create specific training materials for public health practitioners. Read more about Danielle."
   },
   {
     "objectID": "about.html#contributing",
@@ -32,7 +32,7 @@
     "href": "about.html#related-projects",
     "title": "About",
     "section": "Related projects",
-    "text": "Related projects\nThis project is inspired by:\n\nRstudio Learner Personas\nMetadocencia Personas"
+    "text": "Related projects\nIn this project, we got inspired by Metadocencia Personas and adapted content from Rstudio Learner Personas.\nThe “Teaching Tech Together” book (G. Wilson, 2019) has a section on Learner Personas in English and Spanish."
   },
   {
     "objectID": "celina-postdoctor.html",
@@ -102,7 +102,14 @@
     "href": "index.html",
     "title": "Epiverse-TRACE personas",
     "section": "",
-    "text": "Learner Personas help instructors figure out who they’re trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner’s perception of their needs, and any special considerations. Read more about learner personas.\n\n\n\nPersona\nIn Brief\nEpidemiology knowledge\nProgramming knowledge\nMathematics Knowledge\n\n\n\n\nLucia\nA Field Epidemiologist that use R for data cleaning, plotting and report for Outbreak response.\nExpert\nCompetent\nNovice\n\n\nJuan\nA Statistician and R user in a National Health Agency with constant deployment to outbreak response.\nCompetent\nExpert\nCompetent\n\n\nPatricia\nA PhD student learning to use R and analyse Outbreak data for her collaborative project on GitHub.\nCompetent\nNovice\nCompetent\n\n\nVania\nA professor who needs ready-to-use training for her research and to pass on to students.\nExpert\nCompetent\nExpert\n\n\nDanielle\nA Trainer that wants to remix content to create specific training materials for public health practitioners.\nCompetent\nExpert\nCompetent\n\n\n\nA novice is someone who doesn’t yet have a mental model of some field: as a result, they don’t know what they don’t know. Someone is competent if they know enough to perform routine tasks without heroic effort. Someone is an expert if they are able to solve common problems at a glance and harder or more unusual problems reliably.\nAny learning material (tutorial, case study, online training, or in-person workshop) should be designed for 1–3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff for the field of infectious diseases and public health, adapting content from Rstudio Learner Personas."
+    "text": "Learner Personas help instructors figure out who they’re trying to help and communicate an understanding to each other and to learners. Each persona has a general background, relevant prior knowledge or experience, the learner’s perception of their needs, and any special considerations. 1\nA novice is someone who doesn’t yet have a mental model of some field: as a result, they don’t know what they don’t know. Someone is competent if they know enough to perform routine tasks without heroic effort. Someone is an expert if they are able to solve common problems at a glance and harder or more unusual problems reliably.\nAny learning material (tutorial, case study, online training, or in-person workshop) should be designed for 1–3 specific personas. The personas above have been synthesized from ones created by Epiverse-TRACE staff for the field of infectious diseases and public health.\nTake a look at the complete table of Epiverse-TRACE learner personas."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Epiverse-TRACE personas",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRefer to the About page for more details about the rationale behind the design of this site.↩︎"
   },
   {
     "objectID": "juan-datero.html",
