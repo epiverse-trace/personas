@@ -14,7 +14,7 @@ title: "Patricia Discoverer"
 
 - Patricia needs to translate theory to practice with R. 
 
-- She needs workshops (as an opportunity to meet people) and self-paced lessons (so that she can learn new things on her own). 
+- She needs workshops (as an opportunity to meet people) and self-paced tutorials (so that she can learn new things on her own). 
 
 - She has a complete set of cheatsheets taped up on her wall, but usually checks Stack Overflow before looking at reference manuals.
 
