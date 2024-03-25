@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Personas"
+  google-analytics: "G-XZ471458FQ"
   navbar:
     logo: logo_white.svg
     left:
