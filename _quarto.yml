@@ -5,6 +5,7 @@ project:
 website:
   title: "Personas"
   navbar:
+    logo: logo_white.svg
     left:
       - href: index.qmd
         text: Home
@@ -21,7 +22,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, epiversetheme.scss]
     css: styles.css
     toc: true
 
